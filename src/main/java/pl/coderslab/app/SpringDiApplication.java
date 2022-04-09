@@ -16,6 +16,12 @@ public class SpringDiApplication {
         HelloWorld helloWorld1 = context.getBean("helloWorld", HelloWorld.class);
         helloWorld1.printMessage();
 
+        System.out.println("---------");
+
+
+        helloWorld.getMessage();
+
+
 
 
 
