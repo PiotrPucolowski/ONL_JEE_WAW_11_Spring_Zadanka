@@ -1,0 +1,18 @@
+2022-02-20 19:24:15.137 [http-nio-8080-exec-2] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:17.495 [http-nio-8080-exec-2] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 2337 [ms[]
+2022-02-20 19:24:21.139 [http-nio-8080-exec-3] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:21.140 [http-nio-8080-exec-3] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 0 [ms[]
+2022-02-20 19:24:27.904 [http-nio-8080-exec-4] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:27.918 [http-nio-8080-exec-4] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 8 [ms[]
+2022-02-20 19:24:38.983 [http-nio-8080-exec-5] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:38.985 [http-nio-8080-exec-5] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 1 [ms[]
+2022-02-20 19:24:51.455 [http-nio-8080-exec-6] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:51.466 [http-nio-8080-exec-6] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 8 [ms[]
+2022-02-20 19:24:51.586 [http-nio-8080-exec-7] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:51.588 [http-nio-8080-exec-7] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 0 [ms[]
+2022-02-20 19:24:56.251 [http-nio-8080-exec-8] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:56.260 [http-nio-8080-exec-8] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 2 [ms[]
+2022-02-20 19:24:56.371 [http-nio-8080-exec-9] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:24:56.374 [http-nio-8080-exec-9] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 0 [ms[]
+2022-02-20 19:25:01.451 [http-nio-8080-exec-10] INFO  pl.coderslab.filter.RequestInfoFilter - [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0] User-agent: {}
+2022-02-20 19:25:01.452 [http-nio-8080-exec-10] INFO  pl.coderslab.filter.ExecutionTimeFilter - GET null time 1 [ms[]
